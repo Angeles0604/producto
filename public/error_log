@@ -1,0 +1,156 @@
+[30-Nov-2024 17:10:01 UTC] PHP Warning:  require(/home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php on line 41
+[30-Nov-2024 17:10:01 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/public/index.php(13): require('...')
+#3 {main}
+  thrown in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php on line 41
+[30-Nov-2024 17:11:39 UTC] PHP Warning:  require(/home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php): Failed to open stream: No such file or directory in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php on line 41
+[30-Nov-2024 17:11:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/../symfony/polyfill-mbstring/bootstrap.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/public/index.php(13): require('...')
+#3 {main}
+  thrown in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php on line 41
+[30-Nov-2024 17:27:50 UTC] PHP Warning:  require(/home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php on line 41
+[30-Nov-2024 17:27:50 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/public/index.php(13): require('...')
+#3 {main}
+  thrown in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php on line 41
+[30-Nov-2024 17:29:44 UTC] PHP Warning:  require(/home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php): Failed to open stream: No such file or directory in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php on line 41
+[30-Nov-2024 17:29:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/../symfony/var-dumper/Resources/functions/dump.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/public/index.php(13): require('...')
+#3 {main}
+  thrown in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php on line 41
+[30-Nov-2024 17:40:38 UTC] PHP Warning:  require(/home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php): Failed to open stream: No such file or directory in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php on line 41
+[30-Nov-2024 17:40:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/public/index.php(13): require('...')
+#3 {main}
+  thrown in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php on line 41
+[30-Nov-2024 17:44:54 UTC] PHP Warning:  require(/home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php): Failed to open stream: No such file or directory in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php on line 41
+[30-Nov-2024 17:44:54 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/public/index.php(13): require('...')
+#3 {main}
+  thrown in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php on line 41
+[30-Nov-2024 17:44:56 UTC] PHP Warning:  require(/home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php): Failed to open stream: No such file or directory in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php on line 41
+[30-Nov-2024 17:44:56 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/public/index.php(13): require('...')
+#3 {main}
+  thrown in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php on line 41
+[30-Nov-2024 17:44:57 UTC] PHP Warning:  require(/home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php): Failed to open stream: No such file or directory in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php on line 41
+[30-Nov-2024 17:44:57 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/../phpunit/phpunit/src/Framework/Assert/Functions.php' (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php:41
+Stack trace:
+#0 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php(45): {closure}()
+#1 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#2 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/public/index.php(13): require('...')
+#3 {main}
+  thrown in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php on line 41
+[30-Nov-2024 17:52:31 UTC] PHP Warning:  include(/home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php): Failed to open stream: No such file or directory in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/ClassLoader.php on line 576
+[30-Nov-2024 17:52:31 UTC] PHP Warning:  include(): Failed opening '/home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/ClassLoader.php on line 576
+[30-Nov-2024 17:52:31 UTC] PHP Fatal error:  Uncaught Error: Class "NunoMaduro\Collision\Adapters\Phpunit\Subscribers\EnsurePrinterIsRegisteredSubscriber" not found in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php:11
+Stack trace:
+#0 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php(41): require()
+#1 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php(45): {closure}()
+#2 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#3 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/public/index.php(13): require('...')
+#4 {main}
+  thrown in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php on line 11
+[30-Nov-2024 17:55:23 UTC] PHP Warning:  include(/home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php): Failed to open stream: No such file or directory in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/ClassLoader.php on line 576
+[30-Nov-2024 17:55:23 UTC] PHP Warning:  include(): Failed opening '/home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/ClassLoader.php on line 576
+[30-Nov-2024 17:55:23 UTC] PHP Fatal error:  Uncaught Error: Class "NunoMaduro\Collision\Adapters\Phpunit\Subscribers\EnsurePrinterIsRegisteredSubscriber" not found in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php:11
+Stack trace:
+#0 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php(41): require()
+#1 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php(45): {closure}()
+#2 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#3 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/public/index.php(13): require('...')
+#4 {main}
+  thrown in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php on line 11
+[30-Nov-2024 18:02:08 UTC] PHP Warning:  include(/home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php): Failed to open stream: No such file or directory in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/ClassLoader.php on line 576
+[30-Nov-2024 18:02:08 UTC] PHP Warning:  include(): Failed opening '/home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/ClassLoader.php on line 576
+[30-Nov-2024 18:02:08 UTC] PHP Fatal error:  Uncaught Error: Class "NunoMaduro\Collision\Adapters\Phpunit\Subscribers\EnsurePrinterIsRegisteredSubscriber" not found in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php:11
+Stack trace:
+#0 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php(41): require()
+#1 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php(45): {closure}()
+#2 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#3 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/public/index.php(13): require('...')
+#4 {main}
+  thrown in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php on line 11
+[30-Nov-2024 18:02:12 UTC] PHP Warning:  include(/home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php): Failed to open stream: No such file or directory in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/ClassLoader.php on line 576
+[30-Nov-2024 18:02:12 UTC] PHP Warning:  include(): Failed opening '/home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/ClassLoader.php on line 576
+[30-Nov-2024 18:02:12 UTC] PHP Fatal error:  Uncaught Error: Class "NunoMaduro\Collision\Adapters\Phpunit\Subscribers\EnsurePrinterIsRegisteredSubscriber" not found in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php:11
+Stack trace:
+#0 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php(41): require()
+#1 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php(45): {closure}()
+#2 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#3 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/public/index.php(13): require('...')
+#4 {main}
+  thrown in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php on line 11
+[30-Nov-2024 18:05:04 UTC] PHP Warning:  include(/home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php): Failed to open stream: No such file or directory in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/ClassLoader.php on line 576
+[30-Nov-2024 18:05:04 UTC] PHP Warning:  include(): Failed opening '/home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/../nunomaduro/collision/src/Adapters/Phpunit/Subscribers/EnsurePrinterIsRegisteredSubscriber.php' for inclusion (include_path='.:/opt/cpanel/ea-php82/root/usr/share/pear') in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/ClassLoader.php on line 576
+[30-Nov-2024 18:05:04 UTC] PHP Fatal error:  Uncaught Error: Class "NunoMaduro\Collision\Adapters\Phpunit\Subscribers\EnsurePrinterIsRegisteredSubscriber" not found in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php:11
+Stack trace:
+#0 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php(41): require()
+#1 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/autoload_real.php(45): {closure}()
+#2 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/autoload.php(25): ComposerAutoloaderInit626b9e7ddd47fb7eff9aaa53cce0c9ad::getLoader()
+#3 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/public/index.php(13): require('...')
+#4 {main}
+  thrown in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/nunomaduro/collision/src/Adapters/Phpunit/Autoload.php on line 11
+[30-Nov-2024 18:25:11 UTC] PHP Fatal error:  During class fetch: Uncaught ErrorException: include(/home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/../laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php): Failed to open stream: No such file or directory in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/ClassLoader.php:576
+Stack trace:
+#0 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(281): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/ClassLoader.php(576): Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#2 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/ClassLoader.php(576): include('...')
+#3 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}()
+#4 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(28): Composer\Autoload\ClassLoader->loadClass()
+#5 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/ClassLoader.php(576): include('...')
+#6 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}()
+#7 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/laravel/framework/src/Illuminate/Database/DatabaseServiceProvider.php(41): Composer\Autoload\ClassLoader->loadClass()
+#8 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(870): Illuminate\Database\DatabaseServiceProvider->register()
+#9 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php(75): Illuminate\Foundation\Application->register()
+#10 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(845): Illuminate\Foundation\ProviderRepository->load()
+#11 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterProviders.php(37): Illuminate\Foundation\Application->registerConfiguredProviders()
+#12 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(316): Illuminate\Foundation\Bootstrap\RegisterProviders->bootstrap()
+#13 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(187): Illuminate\Foundation\Application->bootstrapWith()
+#14 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(171): Illuminate\Foundation\Http\Kernel->bootstrap()
+#15 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#16 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1190): Illuminate\Foundation\Http\Kernel->handle()
+#17 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/public/index.php(17): Illuminate\Foundation\Application->handleRequest()
+#18 {main} in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 28
+[30-Nov-2024 18:25:14 UTC] PHP Fatal error:  During class fetch: Uncaught ErrorException: include(/home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/../laravel/framework/src/Illuminate/Database/Eloquent/Concerns/HasAttributes.php): Failed to open stream: No such file or directory in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/ClassLoader.php:576
+Stack trace:
+#0 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/HandleExceptions.php(281): Illuminate\Foundation\Bootstrap\HandleExceptions->handleError()
+#1 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/ClassLoader.php(576): Illuminate\Foundation\Bootstrap\HandleExceptions->Illuminate\Foundation\Bootstrap\{closure}()
+#2 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/ClassLoader.php(576): include('...')
+#3 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}()
+#4 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php(28): Composer\Autoload\ClassLoader->loadClass()
+#5 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/ClassLoader.php(576): include('...')
+#6 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/composer/ClassLoader.php(427): Composer\Autoload\{closure}()
+#7 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/laravel/framework/src/Illuminate/Database/DatabaseServiceProvider.php(41): Composer\Autoload\ClassLoader->loadClass()
+#8 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(870): Illuminate\Database\DatabaseServiceProvider->register()
+#9 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/laravel/framework/src/Illuminate/Foundation/ProviderRepository.php(75): Illuminate\Foundation\Application->register()
+#10 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(845): Illuminate\Foundation\ProviderRepository->load()
+#11 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/laravel/framework/src/Illuminate/Foundation/Bootstrap/RegisterProviders.php(37): Illuminate\Foundation\Application->registerConfiguredProviders()
+#12 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(316): Illuminate\Foundation\Bootstrap\RegisterProviders->bootstrap()
+#13 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(187): Illuminate\Foundation\Application->bootstrapWith()
+#14 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(171): Illuminate\Foundation\Http\Kernel->bootstrap()
+#15 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/laravel/framework/src/Illuminate/Foundation/Http/Kernel.php(145): Illuminate\Foundation\Http\Kernel->sendRequestThroughRouter()
+#16 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/laravel/framework/src/Illuminate/Foundation/Application.php(1190): Illuminate\Foundation\Http\Kernel->handle()
+#17 /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/public/index.php(17): Illuminate\Foundation\Application->handleRequest()
+#18 {main} in /home2/ixocakuy/aplicacionesenlanube.cetivirgendelapuerta.com/ecalzaditosuns/vendor/laravel/framework/src/Illuminate/Database/Eloquent/Model.php on line 28
